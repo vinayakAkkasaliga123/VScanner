@@ -22,7 +22,7 @@ npm install
 
 # Usage
 node scanner.js -u https://example.com
-# or (if you added an npm script)
+# or 
 npm run scan -- -u https://example.com
 
 # Example Output
